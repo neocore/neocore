@@ -1,0 +1,4 @@
+neocore
+=======
+
+Based on TrinityCore
